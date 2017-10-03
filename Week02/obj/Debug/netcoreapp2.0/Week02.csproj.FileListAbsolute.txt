@@ -1,0 +1,10 @@
+C:\Users\natur\Code\1718.CSSE\Week02\bin\Debug\netcoreapp2.0\Week02.deps.json
+C:\Users\natur\Code\1718.CSSE\Week02\bin\Debug\netcoreapp2.0\Week02.runtimeconfig.json
+C:\Users\natur\Code\1718.CSSE\Week02\bin\Debug\netcoreapp2.0\Week02.runtimeconfig.dev.json
+C:\Users\natur\Code\1718.CSSE\Week02\bin\Debug\netcoreapp2.0\Week02.dll
+C:\Users\natur\Code\1718.CSSE\Week02\bin\Debug\netcoreapp2.0\Week02.pdb
+C:\Users\natur\Code\1718.CSSE\Week02\obj\Debug\netcoreapp2.0\Week02.csproj.CoreCompileInputs.cache
+C:\Users\natur\Code\1718.CSSE\Week02\obj\Debug\netcoreapp2.0\Week02.AssemblyInfoInputs.cache
+C:\Users\natur\Code\1718.CSSE\Week02\obj\Debug\netcoreapp2.0\Week02.AssemblyInfo.cs
+C:\Users\natur\Code\1718.CSSE\Week02\obj\Debug\netcoreapp2.0\Week02.dll
+C:\Users\natur\Code\1718.CSSE\Week02\obj\Debug\netcoreapp2.0\Week02.pdb
